@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for Infinity for Reddit</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,9 +13,10 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Copy the text from this JSON
+2. Open the app's settings, then go to `Themes > Manage Themes`.
+3. Tap on the `+` icon in the bottom corner and select `Import Theme`.
+4. Enable your theme by setting it as *Dark Theme* or *Light Theme*.
 
 ## Gallery
 
@@ -23,23 +24,14 @@
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+- [alvarosoaress](https://github.com/alvarosoaress)
 
 ## Contributing
 
-> Prefer using [@rose-pine/build](https://github.com/rose-pine/build) when possible
+Infinity for Reddit theme maker uses HEX Color code inside its app, but if you try to modify the JSON you will find some wreid numbers. The app makes some another world math with the HEX Code before saving it to the JSON.
 
-Modify `template.json` using Rosé Pine variables, then build variants:
+You need to use these numbers to modify the JSON and still be able to import it to the app.
 
-```sh
-npx @rose-pine/build@latest
-```
+This below is the table of all Colors of Rose Pine base theme translated to the app's wreid numbers
 
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+> LINK
