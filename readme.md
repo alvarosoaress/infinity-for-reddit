@@ -13,7 +13,7 @@
 
 ## Usage
 
-1. Copy the text from this [JSON](https://raw.githubusercontent.com/alvarosoaress/infinity-for-reddit/main/theme.json)
+1. Copy the text from this [JSON](https://raw.githubusercontent.com/alvarosoaress/infinity-for-reddit/main/rose-pine.json)
 2. Open the app's settings, then go to `Themes > Manage Themes`.
 3. Tap on the `+` icon in the bottom corner and select `Import Theme`.
 4. The theme auto apply to the app
@@ -22,7 +22,7 @@
 
 -	**_"When installing the theme, there's a popup `Cannot find data in clipboard`"_**\
 	This is a issue on [Infinity's app](https://github.com/Docile-Alligator/Infinity-For-Reddit/issues/1030)
-    To fix it, paste the contents of the theme in a notepad app or some similar text editor app, then copy the contents from there 
+	. To fix it, paste the contents of the theme in a notepad app or some similar text editor app, then copy the contents from there 
 
 ## Gallery
 
