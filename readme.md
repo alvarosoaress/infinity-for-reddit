@@ -20,7 +20,9 @@
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+![Rosé Pine with Infinity for Reddit](https://user-images.githubusercontent.com/13721147/226472156-812d3a3f-0340-4394-be92-ed1ac55d66e6.jpg)
+
+![Rosé Pine with Infinity for Reddit](https://user-images.githubusercontent.com/13721147/226472166-3ac53c0b-3ad8-4253-8afa-6bee15dad543.jpg)
 
 ## Thanks to
 
