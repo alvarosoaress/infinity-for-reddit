@@ -13,16 +13,23 @@
 
 ## Usage
 
-1. Copy the text from this JSON
+1. Copy the text from this [JSON](https://raw.githubusercontent.com/alvarosoaress/infinity-for-reddit/main/theme.json)
 2. Open the app's settings, then go to `Themes > Manage Themes`.
 3. Tap on the `+` icon in the bottom corner and select `Import Theme`.
-4. Enable your theme by setting it as *Dark Theme* or *Light Theme*.
+4. The theme auto apply to the app
+
+### Known issue:
+
+-	**_"When installing the theme, there's a popup `Cannot find data in clipboard`"_**\
+	This is a issue on [Infinity's app](https://github.com/Docile-Alligator/Infinity-For-Reddit/issues/1030)
+    To fix it, paste the contents of the theme in a notepad app or some similar text editor app, then copy the contents from there 
 
 ## Gallery
 
-![Rosé Pine with Infinity for Reddit](https://user-images.githubusercontent.com/13721147/226472156-812d3a3f-0340-4394-be92-ed1ac55d66e6.jpg)
-
-![Rosé Pine with Infinity for Reddit](https://user-images.githubusercontent.com/13721147/226472166-3ac53c0b-3ad8-4253-8afa-6bee15dad543.jpg)
+<p align="center">
+    <img width="250px" src="https://user-images.githubusercontent.com/13721147/226472156-812d3a3f-0340-4394-be92-ed1ac55d66e6.jpg" alt="Rosé Pine with Infinity for Reddit" />
+    <img width="250px" src="https://user-images.githubusercontent.com/13721147/226472166-3ac53c0b-3ad8-4253-8afa-6bee15dad543.jpg" alt="Rosé Pine with Infinity for Reddit" />
+</p>
 
 ## Thanks to
 
@@ -34,6 +41,4 @@ Infinity for Reddit theme maker uses HEX Color code inside its app, but if you t
 
 You need to use these numbers to modify the JSON and still be able to import it to the app.
 
-This below is the table of all Colors of Rose Pine base theme translated to the app's wreid numbers
-
-> LINK
+This [Table](https://github.com/alvarosoaress/infinity-for-reddit/blob/main/translated_hex.md) has all Colors of Rose Pine base theme translated to the app's wreid numbers
