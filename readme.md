@@ -37,8 +37,8 @@
 
 ## Contributing
 
-Infinity for Reddit theme maker uses HEX Color code inside its app, but if you try to modify the JSON you will find some wreid numbers. The app makes some another world math with the HEX Code before saving it to the JSON.
+Infinity for Reddit theme maker uses HEX Color code inside its app, but if you try to modify the JSON you will find some weird numbers. The app makes some another world math with the HEX Code before saving it to the JSON.
 
 You need to use these numbers to modify the JSON and still be able to import it to the app.
 
-This [Table](https://github.com/alvarosoaress/infinity-for-reddit/blob/main/translated_hex.md) has all Colors of Rose Pine base theme translated to the app's wreid numbers
+This [Table](https://github.com/alvarosoaress/infinity-for-reddit/blob/main/translated_hex.md) has all Colors of Rose Pine base theme translated to the app's weird numbers
